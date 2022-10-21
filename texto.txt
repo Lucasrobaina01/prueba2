@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+
+cambios desde otro usuario
+
+=======
+
+mis cambios
+
+>>>>>>> branch-a
